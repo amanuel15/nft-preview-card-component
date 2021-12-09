@@ -23,6 +23,11 @@ Users should be able to:
 ![desktop preview](./screenshots/desktop_screenshot.jpg)
 ![mobile preview](./screenshots/mobile_screenshot.jpg)
 
+### Links
+
+- Solution URL: [solution here](https://github.com/amanuel15/nft-preview-card-component)
+- Live Site URL: [live preview here](https://amandesign-nft-card-preview.netlify.app)
+
 ### Built with
 
 - HTML5
